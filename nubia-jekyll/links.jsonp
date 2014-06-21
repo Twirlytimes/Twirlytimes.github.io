@@ -73,6 +73,11 @@ callback([
   {
     "text": "First Commit",
     "href": "http://twirlytimes.github.io/nubia-jekyll/personal/first-commit"
+  } ,
+
+  {
+    "text": "ABOUT HMFAYSAL OMEGA",
+    "href": "http://twirlytimes.github.io/nubia-jekyll/theme-setup/introduction-post"
   } 
 
 ])

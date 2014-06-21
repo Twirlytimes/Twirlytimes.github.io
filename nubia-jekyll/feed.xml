@@ -1,16 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-<title type="text">HMFAYSAL</title>
+<title type="text">NUBIA</title>
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://twirlytimes.github.io/nubia-jekyll/feed.xml" />
 <link rel="alternate" type="text/html" href="http://twirlytimes.github.io/nubia-jekyll" />
-<updated>2014-06-21T15:22:02-04:00</updated>
+<updated>2014-06-21T18:09:35-04:00</updated>
 <id>http://twirlytimes.github.io/nubia-jekyll/</id>
 <author>
-  <name>Hossain Mohd Faysal</name>
+  <name>Twirlytimes</name>
   <uri>http://twirlytimes.github.io/nubia-jekyll/</uri>
-  <email>hmfaysal@alum.mit.edu</email>
+  <email>twirlytimes@gmail.com</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[ABOUT HMFAYSAL OMEGA]]></title>
+  <link>http://twirlytimes.github.io/nubia-jekyll/theme-setup/introduction-post</link>
+  <id>http://twirlytimes.github.io/nubia-jekyll/theme-setup/introduction-post</id>
+  <published>2014-06-21T00:00:00-04:00</published>
+  <updated>2014-06-21T00:00:00-04:00</updated>
+  <author>
+    <name>Twirlytimes</name>
+    <uri>http://twirlytimes.github.io/nubia-jekyll</uri>
+    <email>twirlytimes@gmail.com</email>
+  </author>
+  <content type="html">&lt;h2 id=&quot;nubian-pyramids&quot;&gt;Nubian pyramids&lt;/h2&gt;
+
+&lt;p&gt;Nubian pyramids are pyramids that were built by the rulers of the ancient Kushite kingdoms. Prior to the Kushites building these pyramids, there had been no pyramid construction in Egypt and the Nile Valley for more than 500 years.&lt;/p&gt;
+
+&lt;p&gt;The area of the Nile valley known as Nubia, which lies within present day Sudan, was home to three Kushite kingdoms during antiquity. The first had its capital at Kerma (2600–1520 BC). The second was centered on Napata (1000–300 BC). Finally, the last kingdom was centered on Meroë (300 BC–AD 300).&lt;/p&gt;
+
+&lt;p&gt;Kerma was Nubia’s first centralized state with its own indigenous forms of architecture and burial customs. The last two kingdoms, Napata and Meroe, were heavily influenced by ancient Egypt; culturally, economically, politically, and militarily. The Kushite kingdoms in turn competed strongly with Egypt. In fact, during the late period of Ancient Egyptian history, the rulers of Napata conquered and unified Egypt herself. The Napatans ruled as the pharaohs of the Twenty-fifth Dynasty. The Napatan domination of Egypt ended with the Assyrian conquest in 656 BC.&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;http://twirlytimes.github.io/nubia-jekyll/theme-setup/introduction-post&quot;&gt;ABOUT HMFAYSAL OMEGA&lt;/a&gt; was originally published by Twirlytimes at &lt;a href=&quot;http://twirlytimes.github.io/nubia-jekyll&quot;&gt;NUBIA&lt;/a&gt; on June 21, 2014.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
@@ -20,9 +44,9 @@
   <published>2014-05-15T00:00:00-04:00</published>
   <updated>2014-05-15T00:00:00-04:00</updated>
   <author>
-    <name>Hossain Mohd Faysal</name>
+    <name>Twirlytimes</name>
     <uri>http://twirlytimes.github.io/nubia-jekyll</uri>
-    <email>hmfaysal@alum.mit.edu</email>
+    <email>twirlytimes@gmail.com</email>
   </author>
   <content type="html">&lt;blockquote&gt;
   &lt;p&gt;&quot;The beginning is the most important part of the work.&quot;
@@ -59,7 +83,7 @@ If you reply back to this with your IP address (http://www.hostgator.com/ip.shtm
   &lt;/ol&gt;
 &lt;/div&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://twirlytimes.github.io/nubia-jekyll/personal/first-commit&quot;&gt;First Commit&lt;/a&gt; was originally published by Hossain Mohd Faysal at &lt;a href=&quot;http://twirlytimes.github.io/nubia-jekyll&quot;&gt;HMFAYSAL&lt;/a&gt; on May 15, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://twirlytimes.github.io/nubia-jekyll/personal/first-commit&quot;&gt;First Commit&lt;/a&gt; was originally published by Twirlytimes at &lt;a href=&quot;http://twirlytimes.github.io/nubia-jekyll&quot;&gt;NUBIA&lt;/a&gt; on May 15, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -70,9 +94,9 @@ If you reply back to this with your IP address (http://www.hostgator.com/ip.shtm
   <published>2014-01-12T00:00:00-05:00</published>
   <updated>2014-01-12T00:00:00-05:00</updated>
   <author>
-    <name>Hossain Mohd Faysal</name>
+    <name>Twirlytimes</name>
     <uri>http://twirlytimes.github.io/nubia-jekyll</uri>
-    <email>hmfaysal@alum.mit.edu</email>
+    <email>twirlytimes@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;HMFAYSAL OMEGA is a minimalist, beautiful, responsive theme for Jekyll designed for engineers as well as writers who want their content to take front and center. This theme elegantly wraps each page and post with featured images complementing the content. HMFAYSAL OMEGA (named after the Greek Alphabet) complements Jekyll’s minimalist, content-first approach with gorgeous typography and subtle design elements.&lt;/p&gt;
 
@@ -195,7 +219,7 @@ If you reply back to this with your IP address (http://www.hostgator.com/ip.shtm
 
 &lt;p&gt;If you’d like to give me credit somewhere on your blog or tweet a shout out to &lt;a href=&quot;https://twitter.com/hmfaysal&quot;&gt;@hmfaysal&lt;/a&gt;, that would be pretty sweet.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://twirlytimes.github.io/nubia-jekyll/theme-setup/about-hmfaysal-omega&quot;&gt;ABOUT HMFAYSAL OMEGA&lt;/a&gt; was originally published by Hossain Mohd Faysal at &lt;a href=&quot;http://twirlytimes.github.io/nubia-jekyll&quot;&gt;HMFAYSAL&lt;/a&gt; on January 12, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://twirlytimes.github.io/nubia-jekyll/theme-setup/about-hmfaysal-omega&quot;&gt;ABOUT HMFAYSAL OMEGA&lt;/a&gt; was originally published by Twirlytimes at &lt;a href=&quot;http://twirlytimes.github.io/nubia-jekyll&quot;&gt;NUBIA&lt;/a&gt; on January 12, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -206,9 +230,9 @@ If you reply back to this with your IP address (http://www.hostgator.com/ip.shtm
   <published>2014-01-11T00:00:00-05:00</published>
   <updated>2014-01-11T00:00:00-05:00</updated>
   <author>
-    <name>Hossain Mohd Faysal</name>
+    <name>Twirlytimes</name>
     <uri>http://twirlytimes.github.io/nubia-jekyll</uri>
-    <email>hmfaysal@alum.mit.edu</email>
+    <email>twirlytimes@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;Oh Hello. This is a status post. Click here to learn about it more :-)&lt;/p&gt;
 
@@ -231,7 +255,7 @@ mathjax:
 ---
 &lt;/code&gt;&lt;/pre&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://twirlytimes.github.io/nubia-jekyll/sample-posts/a-status&quot;&gt;Sample Status Post&lt;/a&gt; was originally published by Hossain Mohd Faysal at &lt;a href=&quot;http://twirlytimes.github.io/nubia-jekyll&quot;&gt;HMFAYSAL&lt;/a&gt; on January 11, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://twirlytimes.github.io/nubia-jekyll/sample-posts/a-status&quot;&gt;Sample Status Post&lt;/a&gt; was originally published by Twirlytimes at &lt;a href=&quot;http://twirlytimes.github.io/nubia-jekyll&quot;&gt;NUBIA&lt;/a&gt; on January 11, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -242,9 +266,9 @@ mathjax:
   <published>2014-01-10T00:00:00-05:00</published>
   <updated>2014-01-10T00:00:00-05:00</updated>
   <author>
-    <name>Hossain Mohd Faysal</name>
+    <name>Twirlytimes</name>
     <uri>http://twirlytimes.github.io/nubia-jekyll</uri>
-    <email>hmfaysal@alum.mit.edu</email>
+    <email>twirlytimes@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;I’ve put together a little post to introduce you to the HMFAYSAL OMEGA theme and get you started with Markdown. Go ahead and edit this post to get going and learn how it all works!&lt;/p&gt;
 
@@ -471,7 +495,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum velit quis m
 
 &lt;p&gt;That should be enough to get you started. Have fun - and let me know what you think &lt;a href=&quot;https://twitter.com/hmfaysal&quot;&gt;@hmfaysal&lt;/a&gt; or at &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#104;&amp;#109;&amp;#102;&amp;#097;&amp;#121;&amp;#115;&amp;#097;&amp;#108;&amp;#064;&amp;#097;&amp;#108;&amp;#117;&amp;#109;&amp;#046;&amp;#109;&amp;#105;&amp;#116;&amp;#046;&amp;#101;&amp;#100;&amp;#117;&quot;&gt;&amp;#104;&amp;#109;&amp;#102;&amp;#097;&amp;#121;&amp;#115;&amp;#097;&amp;#108;&amp;#064;&amp;#097;&amp;#108;&amp;#117;&amp;#109;&amp;#046;&amp;#109;&amp;#105;&amp;#116;&amp;#046;&amp;#101;&amp;#100;&amp;#117;&lt;/a&gt; :)&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://twirlytimes.github.io/nubia-jekyll/theme-setup/theme-elements&quot;&gt;Theme Elements&lt;/a&gt; was originally published by Hossain Mohd Faysal at &lt;a href=&quot;http://twirlytimes.github.io/nubia-jekyll&quot;&gt;HMFAYSAL&lt;/a&gt; on January 10, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://twirlytimes.github.io/nubia-jekyll/theme-setup/theme-elements&quot;&gt;Theme Elements&lt;/a&gt; was originally published by Twirlytimes at &lt;a href=&quot;http://twirlytimes.github.io/nubia-jekyll&quot;&gt;NUBIA&lt;/a&gt; on January 10, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -482,9 +506,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum velit quis m
   <published>2014-01-09T00:00:00-05:00</published>
   <updated>2014-01-09T00:00:00-05:00</updated>
   <author>
-    <name>Hossain Mohd Faysal</name>
+    <name>Twirlytimes</name>
     <uri>http://twirlytimes.github.io/nubia-jekyll</uri>
-    <email>hmfaysal@alum.mit.edu</email>
+    <email>twirlytimes@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;Here is an example of what a post with a gallery might look like. If you want to display two or three images next to each other responsively use &lt;code&gt;figure&lt;/code&gt; with the appropriate &lt;code&gt;class&lt;/code&gt;. Each instance of &lt;code&gt;figure&lt;/code&gt; is auto-numbered and displayed in the caption.&lt;/p&gt;
 
@@ -511,7 +535,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum velit quis m
 	&lt;figcaption&gt;Photos from my Japan trip.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://twirlytimes.github.io/nubia-jekyll/photos/sample-gallery-post&quot;&gt;Sample Gallery Post&lt;/a&gt; was originally published by Hossain Mohd Faysal at &lt;a href=&quot;http://twirlytimes.github.io/nubia-jekyll&quot;&gt;HMFAYSAL&lt;/a&gt; on January 09, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://twirlytimes.github.io/nubia-jekyll/photos/sample-gallery-post&quot;&gt;Sample Gallery Post&lt;/a&gt; was originally published by Twirlytimes at &lt;a href=&quot;http://twirlytimes.github.io/nubia-jekyll&quot;&gt;NUBIA&lt;/a&gt; on January 09, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -522,9 +546,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum velit quis m
   <published>2014-01-08T00:00:00-05:00</published>
   <updated>2014-01-08T00:00:00-05:00</updated>
   <author>
-    <name>Hossain Mohd Faysal</name>
+    <name>Twirlytimes</name>
     <uri>http://twirlytimes.github.io/nubia-jekyll</uri>
-    <email>hmfaysal@alum.mit.edu</email>
+    <email>twirlytimes@gmail.com</email>
   </author>
   <content type="html">&lt;blockquote&gt;
   &lt;p&gt;&quot;Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius - and a lot of courage - to move in the opposite direction.&quot;
@@ -580,7 +604,7 @@ mathjax:
 
 &lt;p&gt;Einstein’s gifts inevitably resulted in his dwelling much in intellectual solitude and, for relaxation, music played an important part in his life. He married Mileva Maric in 1903 and they had a daughter and two sons; their marriage was dissolved in 1919 and in the same year he married his cousin, Elsa Löwenthal, who died in 1936. He died on April 18, 1955 at Princeton, New Jersey.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://twirlytimes.github.io/nubia-jekyll/sample-posts/a-quotation&quot;&gt;Sample Quotation Post&lt;/a&gt; was originally published by Hossain Mohd Faysal at &lt;a href=&quot;http://twirlytimes.github.io/nubia-jekyll&quot;&gt;HMFAYSAL&lt;/a&gt; on January 08, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://twirlytimes.github.io/nubia-jekyll/sample-posts/a-quotation&quot;&gt;Sample Quotation Post&lt;/a&gt; was originally published by Twirlytimes at &lt;a href=&quot;http://twirlytimes.github.io/nubia-jekyll&quot;&gt;NUBIA&lt;/a&gt; on January 08, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -591,9 +615,9 @@ mathjax:
   <published>2014-01-07T00:00:00-05:00</published>
   <updated>2014-01-07T00:00:00-05:00</updated>
   <author>
-    <name>Hossain Mohd Faysal</name>
+    <name>Twirlytimes</name>
     <uri>http://twirlytimes.github.io/nubia-jekyll</uri>
-    <email>hmfaysal@alum.mit.edu</email>
+    <email>twirlytimes@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;Video embeds are responsive and scale with the width of the main content block with the help of &lt;a href=&quot;http://fitvidsjs.com/&quot;&gt;FitVids&lt;/a&gt;.&lt;/p&gt;
 
@@ -601,7 +625,7 @@ mathjax:
 
 &lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;iframe&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;width=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;940&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;height=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;529&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;//www.youtube.com/embed/CQJByFp7H38?theme=light&amp;amp;amp;color=white&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;frameborder=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;0&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;allowfullscreen&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;/iframe&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://twirlytimes.github.io/nubia-jekyll/videos/video-post&quot;&gt;A Post with a Video&lt;/a&gt; was originally published by Hossain Mohd Faysal at &lt;a href=&quot;http://twirlytimes.github.io/nubia-jekyll&quot;&gt;HMFAYSAL&lt;/a&gt; on January 07, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://twirlytimes.github.io/nubia-jekyll/videos/video-post&quot;&gt;A Post with a Video&lt;/a&gt; was originally published by Twirlytimes at &lt;a href=&quot;http://twirlytimes.github.io/nubia-jekyll&quot;&gt;NUBIA&lt;/a&gt; on January 07, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -612,9 +636,9 @@ mathjax:
   <published>2014-01-07T00:00:00-05:00</published>
   <updated>2014-01-07T00:00:00-05:00</updated>
   <author>
-    <name>Hossain Mohd Faysal</name>
+    <name>Twirlytimes</name>
     <uri>http://twirlytimes.github.io/nubia-jekyll</uri>
-    <email>hmfaysal@alum.mit.edu</email>
+    <email>twirlytimes@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;Some Premium WordPress themes feature multi-column text entries, which is quite important for academics and engineers like myself for content presentation. HMFAYSAL OMEGA is the first Jekyll Theme to showcase multi-column text entries. HMFAYSAL OMEGA features four types of multi-column configuration, the first being the single column, the others are two, three and four columns. To insert a two-column text entry, simply enter this markup:&lt;/p&gt;
 
@@ -735,7 +759,7 @@ mathjax:
 
 &lt;p&gt;For any layout, make sure in the &lt;code&gt;&amp;lt;div class=&quot;col-md-#&quot;&amp;gt;&lt;/code&gt; the &lt;code&gt;&quot;col-md-#&quot;&lt;/code&gt; numbers add up to 12. the You can include any type of elements between the &lt;code&gt;&amp;lt;div&amp;gt;&lt;/code&gt; tags, like texts, images, videos etc.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://twirlytimes.github.io/nubia-jekyll/sample-posts/fancy-columns&quot;&gt;Fancy Some Columns?&lt;/a&gt; was originally published by Hossain Mohd Faysal at &lt;a href=&quot;http://twirlytimes.github.io/nubia-jekyll&quot;&gt;HMFAYSAL&lt;/a&gt; on January 07, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://twirlytimes.github.io/nubia-jekyll/sample-posts/fancy-columns&quot;&gt;Fancy Some Columns?&lt;/a&gt; was originally published by Twirlytimes at &lt;a href=&quot;http://twirlytimes.github.io/nubia-jekyll&quot;&gt;NUBIA&lt;/a&gt; on January 07, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -746,9 +770,9 @@ mathjax:
   <published>2014-01-06T00:00:00-05:00</published>
   <updated>2014-01-06T00:00:00-05:00</updated>
   <author>
-    <name>Hossain Mohd Faysal</name>
+    <name>Twirlytimes</name>
     <uri>http://twirlytimes.github.io/nubia-jekyll</uri>
-    <email>hmfaysal@alum.mit.edu</email>
+    <email>twirlytimes@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;HMFAYSAL OMEGA theme supports both inline and displayed equations via MathJax.  The theme keeps MathJax turned off by default to improve page load speed. MathJax can be turned on from the post’s Front Matter YAML. Simply put the following statement in the post’s Front Matter YAML:&lt;/p&gt;
 
@@ -828,7 +852,7 @@ disturbing the spacing between lines.&lt;/p&gt;
 
 &lt;p&gt;In MathJax I use &lt;code&gt;$$...$$&lt;/code&gt; or (&lt;code&gt;\begin{equation(*)}...\end{equation(*)}&lt;/code&gt; also works) for displayed equations and &lt;code&gt;$....$&lt;/code&gt; for inline equations. Take care of &amp;gt;,&amp;lt; and &amp;amp;, because they have special meanings in .html files. If your post/page is not displaying the equations properly, try to wrap the equations between &lt;code&gt;{% raw %}...{% endraw %}&lt;/code&gt; tags.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://twirlytimes.github.io/nubia-jekyll/sample-posts/sample-mathjax-post&quot;&gt;Sample Mathjax Post&lt;/a&gt; was originally published by Hossain Mohd Faysal at &lt;a href=&quot;http://twirlytimes.github.io/nubia-jekyll&quot;&gt;HMFAYSAL&lt;/a&gt; on January 06, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://twirlytimes.github.io/nubia-jekyll/sample-posts/sample-mathjax-post&quot;&gt;Sample Mathjax Post&lt;/a&gt; was originally published by Twirlytimes at &lt;a href=&quot;http://twirlytimes.github.io/nubia-jekyll&quot;&gt;NUBIA&lt;/a&gt; on January 06, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -839,13 +863,13 @@ disturbing the spacing between lines.&lt;/p&gt;
   <published>2014-01-05T00:00:00-05:00</published>
   <updated>2014-01-05T00:00:00-05:00</updated>
   <author>
-    <name>Hossain Mohd Faysal</name>
+    <name>Twirlytimes</name>
     <uri>http://twirlytimes.github.io/nubia-jekyll</uri>
-    <email>hmfaysal@alum.mit.edu</email>
+    <email>twirlytimes@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;HMFAYSAL OMEGA Theme now supports &lt;strong&gt;link posts&lt;/strong&gt;, made famous by John Gruber. To activate just add &lt;code&gt;link: http://url-you-want-linked&lt;/code&gt; to the post’s YAML front matter and you’re done.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://twirlytimes.github.io/nubia-jekyll/sample-posts/sample-link-post&quot;&gt;Sample Link Post&lt;/a&gt; was originally published by Hossain Mohd Faysal at &lt;a href=&quot;http://twirlytimes.github.io/nubia-jekyll&quot;&gt;HMFAYSAL&lt;/a&gt; on January 05, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://twirlytimes.github.io/nubia-jekyll/sample-posts/sample-link-post&quot;&gt;Sample Link Post&lt;/a&gt; was originally published by Twirlytimes at &lt;a href=&quot;http://twirlytimes.github.io/nubia-jekyll&quot;&gt;NUBIA&lt;/a&gt; on January 05, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -856,9 +880,9 @@ disturbing the spacing between lines.&lt;/p&gt;
   <published>2014-01-04T00:00:00-05:00</published>
   <updated>2014-01-04T00:00:00-05:00</updated>
   <author>
-    <name>Hossain Mohd Faysal</name>
+    <name>Twirlytimes</name>
     <uri>http://twirlytimes.github.io/nubia-jekyll</uri>
-    <email>hmfaysal@alum.mit.edu</email>
+    <email>twirlytimes@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;Syntax highlighting is a feature that displays source code, in different colors and fonts according to the category of terms. This feature facilitates writing in a structured language such as a programming language or a markup language as both structures and syntax errors are visually distinct. Highlighting does not affect the meaning of the text itself; it is intended only for human readers.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
@@ -958,7 +982,7 @@ end
   &lt;/ol&gt;
 &lt;/div&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://twirlytimes.github.io/nubia-jekyll/sample-posts/code-highlighting-post&quot;&gt;Syntax Highlighting Post&lt;/a&gt; was originally published by Hossain Mohd Faysal at &lt;a href=&quot;http://twirlytimes.github.io/nubia-jekyll&quot;&gt;HMFAYSAL&lt;/a&gt; on January 04, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://twirlytimes.github.io/nubia-jekyll/sample-posts/code-highlighting-post&quot;&gt;Syntax Highlighting Post&lt;/a&gt; was originally published by Twirlytimes at &lt;a href=&quot;http://twirlytimes.github.io/nubia-jekyll&quot;&gt;NUBIA&lt;/a&gt; on January 04, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -969,9 +993,9 @@ end
   <published>2014-01-03T00:00:00-05:00</published>
   <updated>2014-01-03T00:00:00-05:00</updated>
   <author>
-    <name>Hossain Mohd Faysal</name>
+    <name>Twirlytimes</name>
     <uri>http://twirlytimes.github.io/nubia-jekyll</uri>
-    <email>hmfaysal@alum.mit.edu</email>
+    <email>twirlytimes@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;Here are some examples of what a post with images might look like. If you want to display two or three images next to each other responsively use &lt;code&gt;figure&lt;/code&gt; with the appropriate &lt;code&gt;class&lt;/code&gt;. Images are responsive and are opened in a Magnific Popup lightbox if you link a larger image to the entry. Also if you link a larger image, the image thumbs uses CSS3 transitions to turn B&amp;amp;W and change back to color on mouse-hover. Each instance of &lt;code&gt;figure&lt;/code&gt; is auto-numbered and displayed in the caption.&lt;/p&gt;
 
@@ -1027,7 +1051,7 @@ end
 	&lt;figcaption&gt;Three images.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://twirlytimes.github.io/nubia-jekyll/photos/sample-post-images&quot;&gt;A Post with Images&lt;/a&gt; was originally published by Hossain Mohd Faysal at &lt;a href=&quot;http://twirlytimes.github.io/nubia-jekyll&quot;&gt;HMFAYSAL&lt;/a&gt; on January 03, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://twirlytimes.github.io/nubia-jekyll/photos/sample-post-images&quot;&gt;A Post with Images&lt;/a&gt; was originally published by Twirlytimes at &lt;a href=&quot;http://twirlytimes.github.io/nubia-jekyll&quot;&gt;NUBIA&lt;/a&gt; on January 03, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -1038,9 +1062,9 @@ end
   <published>2014-01-01T00:00:00-05:00</published>
   <updated>2014-01-01T00:00:00-05:00</updated>
   <author>
-    <name>Hossain Mohd Faysal</name>
+    <name>Twirlytimes</name>
     <uri>http://twirlytimes.github.io/nubia-jekyll</uri>
-    <email>hmfaysal@alum.mit.edu</email>
+    <email>twirlytimes@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;Portland in shoreditch Vice, labore typewriter pariatur hoodie fap sartorial Austin. Pinterest literally occupy Schlitz forage. Odio ad blue bottle vinyl, 90’s narwhal commodo bitters pour-over nostrud. Ugh est hashtag in, fingerstache adipisicing laboris esse Pinterest shabby chic Portland. Shoreditch bicycle rights anim, flexitarian laboris put a bird on it vinyl cupidatat narwhal. Hashtag artisan skateboard, flannel Bushwick nesciunt salvia aute fixie do plaid post-ironic dolor McSweeney’s. Cliche pour-over chambray nulla four loko skateboard sapiente hashtag.&lt;/p&gt;
 
@@ -1083,7 +1107,7 @@ end
 
 &lt;p&gt;Aliquip enim artisan dolor post-ironic. Pug tote bag Marfa, deserunt pour-over Portland wolf eu odio intelligentsia american apparel ugh ea. Sunt viral et, 3 wolf moon gastropub pug id. Id fashion axe est typewriter, mlkshk Portland art party aute brunch. Sint pork belly Cosby sweater, deep v mumblecore kitsch american apparel. Try-hard direct trade tumblr sint skateboard. Adipisicing bitters excepteur biodiesel, pickled gastropub aute veniam.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://twirlytimes.github.io/nubia-jekyll/sample-posts/readability-post&quot;&gt;Testing Readability with a Bunch of Text&lt;/a&gt; was originally published by Hossain Mohd Faysal at &lt;a href=&quot;http://twirlytimes.github.io/nubia-jekyll&quot;&gt;HMFAYSAL&lt;/a&gt; on January 01, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://twirlytimes.github.io/nubia-jekyll/sample-posts/readability-post&quot;&gt;Testing Readability with a Bunch of Text&lt;/a&gt; was originally published by Twirlytimes at &lt;a href=&quot;http://twirlytimes.github.io/nubia-jekyll&quot;&gt;NUBIA&lt;/a&gt; on January 01, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -1094,9 +1118,9 @@ end
   <published>2013-12-31T00:00:00-05:00</published>
   <updated>2013-12-31T00:00:00-05:00</updated>
   <author>
-    <name>Hossain Mohd Faysal</name>
+    <name>Twirlytimes</name>
     <uri>http://twirlytimes.github.io/nubia-jekyll</uri>
-    <email>hmfaysal@alum.mit.edu</email>
+    <email>twirlytimes@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;Welcome to HMFAYSAL OMEGA Theme for Jekyll. In this tutorial, I will show you how you can install and get started with Jekyll in 10 easy steps. While Jekyll itself is very easy to get started with, Jekyll has several dependencies which needed to be installed in order for Jekyll to work properly. The process of installing these requirements can be a little frustrating on any system, and it can be a tad bit more frustrating if you own a Windows PC. In this article, I will provide step-by-step details about installing Jekyll on windows and all its dependencies properly and will try to elaborate on the errors that one might encounter during the steps.&lt;/p&gt;
 
@@ -1214,7 +1238,7 @@ end
 
 &lt;p&gt;If you’ve enjoyed this post, feel free to like it or share it on facebook, or give me a shoutout in twitter @hmfaysal&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://twirlytimes.github.io/nubia-jekyll/theme-setup/installing-jekyll-on-windows&quot;&gt;Installing Jekyll on Windows&lt;/a&gt; was originally published by Hossain Mohd Faysal at &lt;a href=&quot;http://twirlytimes.github.io/nubia-jekyll&quot;&gt;HMFAYSAL&lt;/a&gt; on December 31, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://twirlytimes.github.io/nubia-jekyll/theme-setup/installing-jekyll-on-windows&quot;&gt;Installing Jekyll on Windows&lt;/a&gt; was originally published by Twirlytimes at &lt;a href=&quot;http://twirlytimes.github.io/nubia-jekyll&quot;&gt;NUBIA&lt;/a&gt; on December 31, 2013.&lt;/p&gt;</content>
 </entry>
 
 
@@ -1226,9 +1250,9 @@ end
   <published>2013-12-30T00:00:00-05:00</published>
   
   <author>
-    <name>Hossain Mohd Faysal</name>
+    <name>Twirlytimes</name>
     <uri>http://twirlytimes.github.io/nubia-jekyll</uri>
-    <email>hmfaysal@alum.mit.edu</email>
+    <email>twirlytimes@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;This is a sample post with a large feature image[^1] up top and tons of text. Odio ad blue bottle vinyl, 90’s narwhal commodo bitters pour-over nostrud. Ugh est hashtag in, fingerstache adipisicing laboris esse Pinterest shabby chic Portland. Shoreditch bicycle rights anim, flexitarian laboris put a bird on it vinyl cupidatat narwhal. Hashtag artisan skateboard, flannel Bushwick nesciunt salvia aute fixie do plaid post-ironic dolor McSweeney’s. Cliche pour-over chambray nulla four loko skateboard sapiente hashtag.&lt;/p&gt;
 
@@ -1271,7 +1295,7 @@ end
 
 &lt;p&gt;Aliquip enim artisan dolor post-ironic. Pug tote bag Marfa, deserunt pour-over Portland wolf eu odio intelligentsia american apparel ugh ea. Sunt viral et, 3 wolf moon gastropub pug id. Id fashion axe est typewriter, mlkshk Portland art party aute brunch. Sint pork belly Cosby sweater, deep v mumblecore kitsch american apparel. Try-hard direct trade tumblr sint skateboard. Adipisicing bitters excepteur biodiesel, pickled gastropub aute veniam.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://twirlytimes.github.io/nubia-jekyll/sample-posts/readability-feature-post&quot;&gt;Post with Large Feature Image and Text&lt;/a&gt; was originally published by Hossain Mohd Faysal at &lt;a href=&quot;http://twirlytimes.github.io/nubia-jekyll&quot;&gt;HMFAYSAL&lt;/a&gt; on December 30, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://twirlytimes.github.io/nubia-jekyll/sample-posts/readability-feature-post&quot;&gt;Post with Large Feature Image and Text&lt;/a&gt; was originally published by Twirlytimes at &lt;a href=&quot;http://twirlytimes.github.io/nubia-jekyll&quot;&gt;NUBIA&lt;/a&gt; on December 30, 2013.&lt;/p&gt;</content>
 </entry>
 
 </feed>
