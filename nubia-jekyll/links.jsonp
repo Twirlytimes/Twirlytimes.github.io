@@ -76,8 +76,8 @@ callback([
   } ,
 
   {
-    "text": "ABOUT HMFAYSAL OMEGA",
-    "href": "http://twirlytimes.github.io/nubia-jekyll/theme-setup/introduction-post"
+    "text": "ABOUT NUBIA",
+    "href": "http://twirlytimes.github.io/nubia-jekyll/nubia/introduction-post"
   } 
 
 ])
